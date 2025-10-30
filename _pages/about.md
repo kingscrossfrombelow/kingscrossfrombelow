@@ -10,7 +10,7 @@ There is also a separate page which is a cumulative log or scrapbook, at https:/
 Each heading, clicked, leads to a page of extra material and updates from that author. Comments are open so authors or others can add material or links.
 Elements re-numbered from (old) 10 onwards.
 
-0 Introduction
+0 [Introduction](https://github.com/kingscrossfrombelow/kingscrossfrombelow/blob/master/_pages/0.%20Introduction)
 
 0.5 contributor biographies
 
@@ -87,5 +87,6 @@ Afterwords:
 15. Esther Leslie, London
 
 16. Richard Wolff, Zürich
+
 
 
